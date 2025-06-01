@@ -21,6 +21,7 @@ import android.appwidget.AppWidgetProvider
 import android.content.Context
 import android.os.Bundle
 import android.widget.RemoteViews
+import com.example.app.R
 
 /**
  * App Widget that deep links you to the [DeepLinkFragment].
